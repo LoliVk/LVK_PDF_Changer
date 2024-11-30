@@ -13,6 +13,12 @@
 "SccProvider" = "8:"
     "Hierarchy"
     {
+        "Entry"
+        {
+        "MsmKey" = "8:_10D4DC9D7E1C4726818F34A085695F40"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
     }
     "Configurations"
     {
@@ -125,7 +131,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:LVK PDF Changer for Windows"
         "ProductCode" = "8:{961222BD-0F04-4F9B-BD82-28C0A0EAF935}"
-        "PackageCode" = "8:{5ABF8FCD-88C5-4F84-A46F-B0FE69ECD4A0}"
+        "PackageCode" = "8:{1E13CA58-AE3B-4BA2-B6F7-D1027DCB090C}"
         "UpgradeCode" = "8:{EC02E228-A170-47AE-B3C0-E930591A5F06}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -245,6 +251,34 @@
         }
         "Shortcut"
         {
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_08ADE56829A24CEE9B0071B46E3F225C"
+            {
+            "Name" = "8:LVK_PDF Changer forWindows (Active)"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:32512"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_10D4DC9D7E1C4726818F34A085695F40"
+            "Folder" = "8:_A2C68852FE9343C9BA6FC6BC1E94B4E5"
+            "WorkingFolder" = "8:_454E7504253A4EBC9EF0A54A2C652892"
+            "Icon" = "8:_10D4DC9D7E1C4726818F34A085695F40"
+            "Feature" = "8:"
+            }
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F6D42A49D1444CD3B05BE31EAE3A931E"
+            {
+            "Name" = "8:LVK PDF Changer forWindows (Active)"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:32512"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_10D4DC9D7E1C4726818F34A085695F40"
+            "Folder" = "8:_454E7504253A4EBC9EF0A54A2C652892"
+            "WorkingFolder" = "8:_454E7504253A4EBC9EF0A54A2C652892"
+            "Icon" = "8:_10D4DC9D7E1C4726818F34A085695F40"
+            "Feature" = "8:"
+            }
         }
         "UserInterface"
         {
@@ -644,6 +678,34 @@
         }
         "ProjectOutput"
         {
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_10D4DC9D7E1C4726818F34A085695F40"
+            {
+            "SourcePath" = "8:..\\LVK_PDF_Changer_forWindows\\obj\\Debug\\net6.0-windows\\apphost.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_454E7504253A4EBC9EF0A54A2C652892"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:PublishItems"
+            "OutputProjectGuid" = "8:{AD726394-DC6E-4CF6-883C-3274199E240A}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
         }
     }
 }
