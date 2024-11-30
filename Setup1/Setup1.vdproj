@@ -70,6 +70,16 @@
         {
             "LaunchCondition"
             {
+                "{A06ECF26-33A3-4562-8140-9B0E340D4F24}:_B9C562498B2B4D15A8DEB0BD6BC8DB0D"
+                {
+                "Name" = "8:.NET Core"
+                "Message" = "8:[VSDNETCOREMSG]"
+                "AllowLaterVersions" = "11:FALSE"
+                "InstallUrl" = "8:https://dotnet.microsoft.com/download/dotnet-core/[NetCoreVerMajorDotMinor]"
+                "IsNETCore" = "11:TRUE"
+                "Architecture" = "2:0"
+                "Runtime" = "2:0"
+                }
             }
         }
         "File"
@@ -131,7 +141,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:LVK PDF Changer for Windows"
         "ProductCode" = "8:{961222BD-0F04-4F9B-BD82-28C0A0EAF935}"
-        "PackageCode" = "8:{1E13CA58-AE3B-4BA2-B6F7-D1027DCB090C}"
+        "PackageCode" = "8:{AFD76108-DF89-4D04-AC27-D31D1ACEF009}"
         "UpgradeCode" = "8:{EC02E228-A170-47AE-B3C0-E930591A5F06}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
@@ -274,7 +284,7 @@
             "IconIndex" = "3:32512"
             "Transitive" = "11:FALSE"
             "Target" = "8:_10D4DC9D7E1C4726818F34A085695F40"
-            "Folder" = "8:_454E7504253A4EBC9EF0A54A2C652892"
+            "Folder" = "8:_5B4CA598D66E46CB9E8ABBF4B808EAB5"
             "WorkingFolder" = "8:_454E7504253A4EBC9EF0A54A2C652892"
             "Icon" = "8:_10D4DC9D7E1C4726818F34A085695F40"
             "Feature" = "8:"
